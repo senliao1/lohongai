@@ -1,7 +1,7 @@
 {
-    "version": "1.4",
+    "version": "1.5",
     "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LOAI_core_1.4.exe",
     "sha256": "D1E0761C205AC81957B22723F6814091D4BF669A10704ECCB7BE7EB1052CAB5A",
     "force": true,
-    "notes": "更新LOAI到1.4"
+    "notes": "更新LOAI到1.5"
 }
