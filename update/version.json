@@ -1,7 +1,7 @@
 {
-    "version": "0.4",
-    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/SenLiao_0.4.exe",
-    "sha256": "5255D6B07B1DD23FA775960C03B2DB529BB14F2F625D0CD7B94BB4CC1B0F0732",
+    "version": "0.5",
+    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/SenLiao_0.5.exe",
+    "sha256": "5FE89617A9370925A60E6C7D562FF265B179D44F5EA828111B2B9AFC2B823033",
     "force": true,
-    "notes": "更新到0.4"
+    "notes": "更新到0.5"
 }
