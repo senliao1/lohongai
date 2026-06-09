@@ -1,7 +1,7 @@
 {
-    "version": "1.21",
-    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LO1.21.exe",
-    "sha256": "8CF2FF5DCBB34032A188475D76479591145A381BCB5ED544F3F4237126D08A36",
+    "version": "1.22",
+    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LO1.22.exe",
+    "sha256": "0F2681C4BF97CBDC158008B3EBD3E26C2BCA06B4210EAF3F9A7B402904676465",
     "force": true,
-    "notes": "更新到1.21"
+    "notes": "更新到1.22"
 }
