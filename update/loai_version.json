@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
-    "version": "1.74",
-    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LOAI_core_1.74.exe",
-    "sha256": "29935DC9158A442735FA298ED0961C91422B6EEE9F93BCB5FE79DB7C02385FB7",
-=======
     "version": "1.75",
     "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LOAI_core_1.75.exe",
     "sha256": "54F65E5FA97DA957135FB43587346272C26526898B8B5FBE58D79A0F1C5EE38F",
->>>>>>> 513f2ac (update loai core 1.75)
     "force": true,
     "notes": "20块定制单独软件特征码找SenLiao，独享软件"
 }
