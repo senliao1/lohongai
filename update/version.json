@@ -1,7 +1,7 @@
 {
-    "version": "1.37",
-    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LO1.37.exe",
-    "sha256": "D67E80412851DC8BC5DB64F9A81787FA7C73F686970BCAFF1962260617656523",
+    "version": "1.40",
+    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LO1.40.exe",
+    "sha256": "81E4D50F4FE7C6E9F9A1D4188789788A860122A36E11E6159E29C66D3A9574EB",
     "force": true,
-    "notes": "1.37更新特征码；20块定制单独软件特征码找SenLiao，独享软件"
+    "notes": "1.40更新手动选择分辨率和无边框武器信息显示；20块定制单独软件特征码找SenLiao，独享软件"
 }
