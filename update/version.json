@@ -1,7 +1,7 @@
 {
-    "version": "1.43",
-    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LO1.43.exe",
-    "sha256": "C587BAA21A0F4E3994CADE20A441A000D6C7FC24BF2C9EDDB78765F9ACF83A64",
+    "version": "1.44",
+    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LO1.44.exe",
+    "sha256": "B8A1C0B8560E489BE6BF6825ED3C895A37574718B905B0C192A8DF1314ECCD75",
     "force": true,
-    "notes": "1.43更新特征码；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
+    "notes": "1.44更新特征码；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
 }
