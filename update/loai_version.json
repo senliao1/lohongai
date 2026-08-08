@@ -1,7 +1,7 @@
 {
-    "version": "1.90",
-    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LOAI_core_1.90.exe",
-    "sha256": "870D6F3E4251A18CFB684DE09D7BBF97ADACA4D393E1327DC32853748D89BA99",
+    "version": "1.91",
+    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LOAI_core_1.91.exe",
+    "sha256": "8D1CC16DE675EE6AE45C31CA4BE6A07DDEA304CF9AA9E3A6165FF2B138D66FD8",
     "force": true,
-    "notes": "1.90更新特征码；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
+    "notes": "1.91优化算法；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
 }
