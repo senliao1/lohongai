@@ -1,7 +1,7 @@
 {
-    "version": "1.49",
+    "version": "1.50",
     "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LO1.49.exe",
-    "sha256": "5AF60ECE1ED1554900A9ADB1230939296E3E70B30BFBDCEF9E6C8A545B8107A5",
+    "sha256": "A059F456BD6C6CA83384A11E2BB77546B5256DA6B0D0196FFFEDB9CAAC6E1472",
     "force": true,
-    "notes": "1.49更新特征码；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
+    "notes": "1.50更新RPD武器，在群文件重新下载整个文件；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
 }
