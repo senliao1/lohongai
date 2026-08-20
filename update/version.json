@@ -1,7 +1,7 @@
 {
-    "version": "1.61",
-    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LO1.61.exe",
+    "version": "1.60",
+    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LO1.60.exe",
     "sha256": "A059F456BD6C6CA83384A11E2BB77546B5256DA6B0D0196FFFEDB9CAAC6E1472",
     "force": true,
-    "notes": "1.61要在群文件重新下载整个文件；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
+    "notes": "1.60要在群文件重新下载整个文件；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
 }
