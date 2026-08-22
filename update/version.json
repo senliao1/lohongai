@@ -1,7 +1,7 @@
 {
     "version": "1.62",
     "url": "https://github.com/senliao1/lohongai/releases/download/v1.62/LO1.62.exe",
-    "sha256": "0D1A154AC128ED60F2EC5980F72ADBD6FFCC1D365B8D76406D35D525C6E3DD72",
+    "sha256": "2D08183D8AAC8F392BE3D4784637358ADBBD8A95A8D0261CF4DEEF18A1F0250D",
     "force": true,
     "notes": "1.62修复闪退，在群文件重新下载整个文件；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
 }
