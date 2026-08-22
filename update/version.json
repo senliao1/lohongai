@@ -1,8 +1,7 @@
 {
-    "version": "1.62",
-    "mirror_url": "",
-    "url": "https://github.com/senliao1/lohongai/releases/download/v1.62/LO1.62.exe",
+    "version": "1.61",
+    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LO1.61.exe",
     "sha256": "B056256E2B9F5CE5ABF5028F731DC212CD061D67FD0037F8BC995F1526B22974",
     "force": true,
-    "notes": "1.62修复闪退；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
+    "notes": "1.61修复闪退；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
 }
