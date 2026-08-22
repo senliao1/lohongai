@@ -1,7 +1,7 @@
 {
     "version": "1.63",
     "mirror_url": "http://8.138.117.127:8080/LO1.63.exe",
-    "url": "https://github.com/senliao1/lohongai/releases/download/v1.62/LO1.63exe",
+    "url": "https://github.com/senliao1/lohongai/releases/download/v1.62/LO1.62.exe",
     "sha256": "954B9A0E26579E55076449FD677CA00AF2BFDC4AABB88EDF6F0A44366165E8D7",
     "force": true,
     "notes": "1.63修复闪退；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
