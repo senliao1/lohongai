@@ -1,5 +1,6 @@
 {
     "version": "1.62",
+    "mirror_url": "",
     "url": "https://github.com/senliao1/lohongai/releases/download/v1.62/LO1.62.exe",
     "sha256": "2D08183D8AAC8F392BE3D4784637358ADBBD8A95A8D0261CF4DEEF18A1F0250D",
     "force": true,
