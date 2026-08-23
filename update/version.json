@@ -1,7 +1,7 @@
 {
-    "version": "1.64",
-    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LO1.64.exe",
-    "sha256": "B808F7781B232BF1D870DDCA7C82775AFF1AFB152BF54452263BE285690B6C6C",
+    "version": "1.65",
+    "url": "https://gitee.com/qu-senxuan/lohongai/raw/master/update/LO1.65.exe",
+    "sha256": "33A3A15921EBC05BD88BEC263964C4ECB19747F3EF9FFC89813045634ABBE7A8",
     "force": true,
-    "notes": "1.64修复闪退；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
+    "notes": "1.65更新特征码；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
 }
