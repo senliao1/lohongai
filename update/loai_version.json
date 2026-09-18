@@ -3,5 +3,5 @@
     "url": "https://gitee.com/qu-senxuan/lohongai/releases/download/v1.98/LOAI_core_1.98.exe",
     "sha256": "FB51283B247124173E1CAF2E9822015E571E35CA3318BAD82AABC223770DF819",
     "force": true,
-    "notes": "1.98更新特征码；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
+    "notes": "1.99优化吸附算法，群文件重新下载；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
 }
