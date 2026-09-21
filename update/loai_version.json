@@ -1,7 +1,7 @@
 {
-    "version": "1.98",
-    "url": "https://gitee.com/qu-senxuan/lohongai/releases/download/v1.98/LOAI_core_1.98.exe",
-    "sha256": "FB51283B247124173E1CAF2E9822015E571E35CA3318BAD82AABC223770DF819",
+    "version": "1.99",
+    "url": "https://gitee.com/qu-senxuan/lohongai/releases/download/v1.99/LOAI_core_1.99.exe",
+    "sha256": "E5D899DEDC4F59311E2CDB2694CB18A4984E9EA28B3F53DC5E22FAE87DECD046",
     "force": true,
-    "notes": "1.98更新特征码，群文件重新下载；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
+    "notes": "1.99更新特征码；20块定制单独软件特征码找SenLiao，不和群友公用，独享软件"
 }
